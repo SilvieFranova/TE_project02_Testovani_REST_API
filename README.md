@@ -10,3 +10,6 @@ API jako takové je skvěle připraveno k testování studenty kurzu. Vykazuje n
 
 Na základě revize dokumentace bylo upřesněno, že schema StudentCreate neobsahuje žádná required pole a všechny atributy jsou definovány jako nullable. Scénáře s chybějícími nebo null hodnotami proto nebyly dále vedeny jako aplikační defekty, ale jako ověření skutečného chování API. Jako defecty zůstaly evidovány pouze případy, které odporují validační logice, formátu dat nebo vedou k nekonzistentní manipulaci s uloženými hodnotami.
 
+
+
+
